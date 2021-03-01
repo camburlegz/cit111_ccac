@@ -106,7 +106,7 @@ public class mightwebefriends {
 
         if (compatScore >= COMPAT_THRESHOLD) {
             passedThreshold = true;
-            System.out.println("Perfect lets go do car shit!");
+            System.out.println("Perfect lets go do car stuff!");
         } else {
             System.out.println("Sorry looks like we wont really be friends");
         }
